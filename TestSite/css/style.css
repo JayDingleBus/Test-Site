@@ -1,7 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
   color: #0c0c0c;
-  background-color: #ffffff;
+  background-color: #111333fff;
 }
 
 .logo {
@@ -643,13 +643,13 @@ a:focus {
 
 .info_section ul li a,
 .info_section ul li a:hover {
-  color: #fff;
+  color: #111333;
 }
 
 .info_section h5 {
   margin-bottom: 12px;
   font-size: 22px;
-  color: #fff;
+  color: #111333;
   padding: 1px 3px;
   border-bottom: 2px solid #feb543;
 }
@@ -676,7 +676,7 @@ a:focus {
   margin: 0;
   font-size: 18px;
   text-transform: uppercase;
-  color: #fff;
+  color: #111333;
 }
 
 .info_section .form_container input {
@@ -685,7 +685,7 @@ a:focus {
   border: none;
   outline: none;
   padding-left: 15px;
-  background-color: #fff;
+  background-color: #111333;
   margin-left: 45px;
   margin-right: 10px;
 }
