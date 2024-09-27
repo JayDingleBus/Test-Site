@@ -52,8 +52,8 @@ body {
 /*header section*/
 .hero_area {
   height: 94vh;
-  background: -webkit-gradient(linear, left top, right top, from(##D110DC), to(#00349B));
-  background: linear-gradient(to right, ##D110DC, #00349B);
+  background: -webkit-gradient(linear, left top, right top, from(#D110DC), to(#00349B));
+  background: linear-gradient(to right, #D110DC, #00349B);
 }
 
 .hero_area::before {
